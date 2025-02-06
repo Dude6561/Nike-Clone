@@ -21,7 +21,7 @@ const Hero = () => {
         </h1>
         <p className="font-montserrat text-slate-gray mt-6 mb-14 sm:max-w-sm">
           Discover Stylish Nike arrivals, quality comfort and innovation for
-          your active life..
+          your active life...
         </p>
         .
         <Button label="Shop Now" iconUrl={arrowRight} />
